@@ -12,6 +12,8 @@ nbproject
 # windows thumbnail cache
 Thumbs.db
 
+npm-debug.log
+
 api_n_backend/web/index.html
 
 api_n_backend/web/fonts/*
