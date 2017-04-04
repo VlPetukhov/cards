@@ -11,3 +11,15 @@ nbproject
 
 # windows thumbnail cache
 Thumbs.db
+
+api_n_backend/web/index.html
+
+api_n_backend/web/fonts/*
+
+api_n_backend/web/css/app.css
+api_n_backend/web/css/vendor.css
+
+api_n_backend/web/js/app.js
+api_n_backend/web/js/vendor.js
+
+api_n_backend/web/images/*
